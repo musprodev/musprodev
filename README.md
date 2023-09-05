@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1268113140262281217/1673121148/600x200)](https://x.com/musprodev)]
+[![MasterHead](https://pbs.twimg.com/profile_banners/1268113140262281217/1673121148/600x200)](https://x.com/musprodev)
 <h1 align="center">Hi 👋, I'm Blockchain Hashira</h1>
 <h3 align="center">A passionate blockchain developer building on-chain</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
