@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://musprodev.hashnode.dev](https://musprodev.hashnode.dev)
 
-- 💬 Ask me about **Solidity, Javascript, Blockchain, Drones**
+- 💬 Ask me about **Solidity, Javascript, Blockchain, Security, Drones**
 
 - 📫 How to reach me **musprodev@outlook.com**
 
