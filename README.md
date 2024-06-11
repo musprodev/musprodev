@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Blockchain Hashira</h1>
-<h3 align="center">A passionate blockchain developer building on-chain securing web3</h3>
+<h3 align="center"> Detective building on-chain and securing web3</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
