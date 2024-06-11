@@ -3,9 +3,6 @@
 <h3 align="center">A passionate blockchain developer building on-chain</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musprodev" alt="musprodev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muspro__dev" target="blank"><img src="https://img.shields.io/twitter/follow/muspro__dev?logo=twitter&style=for-the-badge" alt="muspro__dev" /></a> </p>
 
 - 🔭 I’m currently working on [Noob Techies](https://x.com/noobtechies)
 
