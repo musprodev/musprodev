@@ -1,6 +1,11 @@
-[![MasterHead](https://images.mingming.dev/file/f73f9c68aba4cd615a3cb.jpg)](https://x.com/muspro__dev)
+<div align="center">
+  <a href="https://x.com/muspro__dev">
+    <img src="https://images.mingming.dev/file/f73f9c68aba4cd615a3cb.jpg" alt="MasterHead">
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Blockchain Hashira</h1>
-<h3 align="center">A passionate blockchain developer building on-chain</h3>
+<h3 align="center">A passionate blockchain developer building on-chain securing web3</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 
