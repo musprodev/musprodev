@@ -29,9 +29,8 @@
 
 ### 🏆 Projects
 
-*   **[SecureVault](https://github.com/yourusername/securevault):** A gas-efficient, non-custodial wallet for storing and managing digital assets.
-*   **[AuditReports](https://github.com/yourusername/auditreports):** Open-source repository of smart contract audit reports and findings.
-*   **[ZK-Rollup Demo](https://github.com/yourusername/zk-rollup-demo):** Proof-of-concept implementation of a ZK-Rollup for Ethereum scaling.
+*   **[OpenSwarm](https://github.com/musprodev/openswarm):** An open-source, multi-agent orchestration framework designed for building secure, autonomous AI workflows.
+*   **[Sage](https://github.com/musprodev/sage):** A Modern TUI WebNovel reader
 
 ### 📫 Contact
 
