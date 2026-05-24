@@ -1,6 +1,6 @@
 # Hey it's Hashira 👋
 
-**Blockchain Engineer | Web3 Security Researcher | Smart Contract Auditor**
+**Blockchain Engineer | Web3 Security Researcher | Smart Contract Auditor | Drones System Engineer**
 
 ---
 
@@ -32,11 +32,6 @@
 *   **[SecureVault](https://github.com/yourusername/securevault):** A gas-efficient, non-custodial wallet for storing and managing digital assets.
 *   **[AuditReports](https://github.com/yourusername/auditreports):** Open-source repository of smart contract audit reports and findings.
 *   **[ZK-Rollup Demo](https://github.com/yourusername/zk-rollup-demo):** Proof-of-concept implementation of a ZK-Rollup for Ethereum scaling.
-
-### 📊 Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musprodev&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musprodev&layout=compact&theme=dark&hide_border=true)
 
 ### 📫 Contact
 
