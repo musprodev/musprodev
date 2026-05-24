@@ -7,14 +7,14 @@
 ### 🛠️ Technical Expertise
 
 *   **Blockchain:** Solidity, Rust, Web3.js, Ethers.js, Hardhat, Foundry, Truffle, Slither
-*   **Languages:** JavaScript, TypeScript, Python, Go
+*   **Languages:** Rust, JavaScript, TypeScript, Python, Go
 *   **Security:** Smart Contract Audits, Penetration Testing, Vulnerability Analysis
 *   **AI & Agentic Systems:** LangGraph, PydanticAI, CrewAI, Claude Agent SDK, Multi-Agent Orchestration, Model Context Protocol (MCP), RAG, Vector DBs (Qdrant, Pinecone)
 *   **DevOps:** Docker, Kubernetes, CI/CD Pipelines
 
 ### 🚀 Current Focus
 
-*   **Smart Contract Audits:** Conducting security reviews for DeFi protocols and NFT projects.
+*   **Smart Contract Audits:** Conducting security reviews for DeFi protocols and web3 projects.
 *   **Research:** Exploring zero-knowledge proofs (ZKPs) and layer-2 scaling solutions.
 *   **AI Orchestration:** Designing and orchestrating autonomous multi-agent systems to automate complex workflows.
 *   **Development:** Building secure and gas-efficient smart contracts.
